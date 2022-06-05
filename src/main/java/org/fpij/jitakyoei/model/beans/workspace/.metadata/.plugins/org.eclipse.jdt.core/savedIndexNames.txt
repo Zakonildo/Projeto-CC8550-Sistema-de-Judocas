@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+/home/leonino/Downloads/Projeto-CC8550-Sistema-de-Judocas-master/src/org/fpij/jitakyoei/model/beans/workspace/.metadata/.plugins/org.eclipse.jdt.core
+3842426239.index
+4010541665.index

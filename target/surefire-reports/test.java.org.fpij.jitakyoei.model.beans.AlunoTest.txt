@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: test.java.org.fpij.jitakyoei.model.beans.AlunoTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.283 s <<< FAILURE! - in test.java.org.fpij.jitakyoei.model.beans.AlunoTest
+hashNaoNuloTest(test.java.org.fpij.jitakyoei.model.beans.AlunoTest)  Time elapsed: 0.061 s  <<< FAILURE!
+java.lang.AssertionError: expected:<1234770> but was:<12347700>
+	at test.java.org.fpij.jitakyoei.model.beans.AlunoTest.hashNaoNuloTest(AlunoTest.java:22)
+
