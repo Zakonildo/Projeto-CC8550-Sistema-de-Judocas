@@ -1,0 +1,9 @@
+* Lista de coisas que mudaram
+
+1. Foi adicionado um repositorio pro maven (./repositorio)  - apagar lib
+2. Estrutura do diretorio mudou src/org.... src/main/java (padrao do maven)
+3. Criado o pom com os caminhos das deps
+   
+
+
+   
